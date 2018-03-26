@@ -1,8 +1,8 @@
 import imaplib
 
 imap_host = 'imap.gmail.com'
-imap_user = 'swapnil.tech@global.org.in'
-imap_pass = 'Swapnil@1997'
+imap_user = 'YOUR EMAIL HERE'
+imap_pass = 'YOUR PASSWORD HERE'
 
 ## open a connection 
 imap = imaplib.IMAP4_SSL(imap_host)
